@@ -1,0 +1,15 @@
+{
+  "name": "Go LEAN oder wie wir weniger Müll produzieren",
+  "description": "",
+  "author": "Michael Lihs",
+  "pause_msg": "Paused",
+  "sections": [
+    {"section":"title"},
+    {"section":"about_me"},
+    {"section":"agenda"},
+    {"section":"lean_wtf"},
+    {"section":"lean_methods"},
+    {"section":"next_steps"},
+    {"section":"resources"}
+  ]
+}
